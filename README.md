@@ -49,7 +49,7 @@ This project is optimized for **Google Colab**, where all essential libraries ar
 The dataset is obtained from the Singapore Government Data Portal.
 
 ### **Steps**
-1. Download the dataset from:  
+1. Download the dataset from Github repo or latest dataset from:  
    *(Housing category on data.gov.sg)*
 
 2. Upload the CSV to Colab using the left sidebar (**Files** → upload).  
