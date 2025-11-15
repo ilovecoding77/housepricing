@@ -71,6 +71,7 @@ data = pd.read_csv("ResaleflatpricesbasedonregistrationdatefromJan2017onwards.cs
 2. Open **Project.ipynb** in Google Colab  
 3. Click: **Runtime → Run all**
 4. In the **5 year forecasting section**, input the desired annual growth rate. (e.g., 8 for 8%)
+   
 Everything including models, performance tables, and learning curves will be generated automatically.
 
 ---
