@@ -53,7 +53,6 @@ The dataset is obtained from the Singapore Government Data Portal.
    *(Housing category on data.gov.sg)*
 
 2. Upload the CSV to Colab using the left sidebar (**Files** → upload).  
-   Rename it to:
 
 ```
 ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv
